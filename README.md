@@ -12,10 +12,9 @@ Rename the `.env.example` file to `.env` and provide your Auth0 credentials.
 
 ```bash
 # .env
-
-AUTH0_CLIENT_ID={yourClientId}
-AUTH0_DOMAIN={yourDomain}
-AUTH0_CLIENT_SECRET={yourClientSecret}
+AUTH0_CLIENT_ID=FG6YzgHYmh8Mpe1R9bLdt6HOeOzGZHC6
+AUTH0_DOMAIN=dev-xdkzf3m4xe2c2z6n.us.auth0.com
+AUTH0_CLIENT_SECRET=9DFG_2BXeQt-aU7ML7149IoEj7hlBB9STkzo2BTjwOQo0e5RsPQdPCyeTyaEGDkQ
 AUTH0_CALLBACK_URL=http://localhost:3000/callback
 ```
 
